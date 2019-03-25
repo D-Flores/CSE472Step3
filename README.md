@@ -1,1 +1,1 @@
-# CSE472Step3
+# WebGL Project
